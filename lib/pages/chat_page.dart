@@ -42,7 +42,7 @@ class _ChatPageState extends State<ChatPage> {
       }
     });
 
-    delayedScrollToBottom();
+    // delayedScrollToBottom();
   }
 
   @override
